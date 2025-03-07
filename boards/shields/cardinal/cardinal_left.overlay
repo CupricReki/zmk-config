@@ -15,6 +15,6 @@
     status = "okay";
 };
 
-# &encoder_left_v {
-#     status = "okay";
-# };
+// &encoder_left_v {
+//     status = "okay";
+//  };
